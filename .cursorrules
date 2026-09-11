@@ -1,0 +1,9 @@
+# EcoTrack
+
+Usa `AGENTS.md` como fuente principal de instrucciones del proyecto.
+
+- Escribe código limpio, modular y accesible con TypeScript y React.
+- Mantén toda la experiencia de usuario en español.
+- No agregues dependencias ni servicios externos sin necesidad.
+- Trata los cálculos de CO₂ como estimaciones educativas y muestra su desglose.
+- Verifica cada cambio con `npm run build`.
