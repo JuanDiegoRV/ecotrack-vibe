@@ -29,7 +29,7 @@ Importa el repositorio desde GitHub. Usa `npm install` para instalar y `npm run 
 - URL del repositorio o Repl: se obtiene al subir o importar este proyecto.
 - Captura de Cursor y Replit: debe tomarse cuando el Repl esté ejecutándose.
 
-La ejecución del MVP en Replit está documentada en
-[`evidencia-ecotrack-replit.png`](./evidencia-ecotrack-replit.png).
+La ejecución y las evidencias del MVP están organizadas en
+[`evidencias/`](./evidencias/).
 
 Los resultados usan factores promedio y no sustituyen una auditoría ambiental.
